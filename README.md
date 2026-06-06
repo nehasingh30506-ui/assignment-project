@@ -1,5 +1,4 @@
-# assignment-project
-web technology project
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
